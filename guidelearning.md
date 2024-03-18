@@ -5,12 +5,12 @@
 - Release of 1 video daily.
 - Recommended to watch daily.
 - Focuses on Laravel basics, fundamental coding practices, elegant code writing, and problem-solving approaches for various use cases.
-- Some videos require subscription ($399 lifetime) for full access. 💰
+- Some videos require subscription ($399 lifetime) for full access. 💰 . (we do have access 🌟)
 
 ## Livewire Resources
 - [Getting started with Livewire](https://livewire.laravel.com/screencast/getting_started/installation) 🌟
 - Essential to watch "Getting started" video.
-- Other videos require subscription ($299 lifetime) for full access. 💸
+- Other videos require subscription ($299 lifetime) for full access. 💸 (we do have access 🌟)
 
 ## Alpine Basic
 - [Alpine Essentials](https://laracasts.com/series/alpine-essentials) 🏔️
@@ -33,4 +33,7 @@
 3. Database Operations (Migrations, Seeding, Factories, Query Builder, Joining Tables, etc.) - [Database Documentation](https://laravel.com/docs/11.x/database) / [Query Builder Documentation](https://laravel.com/docs/11.x/queries) 🛠️
 4. Validation - Form validation - [Validation Documentation](https://laravel.com/docs/11.x/validation) / [Livewire Validation Documentation](https://livewire.laravel.com/docs/validation) ✔️
 5. Basic Middleware - Handling requests before reaching the application for validation, checking, authorization, etc. - [Middleware Documentation](https://laravel.com/docs/11.x/middleware) 🚦
+
+### Learn Laravel Path 
+1. Or kalau betul nak basic , nak pahamkan php, oop . boleh follow path ni . https://laracasts.com/path . 
 
