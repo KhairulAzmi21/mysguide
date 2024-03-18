@@ -1,15 +1,35 @@
-import defaultTheme from 'tailwindcss/defaultTheme';
-import forms from '@tailwindcss/forms';
+## Install Blade UI Kit
+https://github.com/blade-ui-kit/blade-icons/blob/1.x/README.md?plain=1
 
-/** @type {import('tailwindcss').Config} */
-export default {
-    content: [
-        './vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php',
-        './storage/framework/views/*.php',
-        './resources/views/**/*.blade.php',
-    ],
+Install the package with composer:
 
-    theme: {
+```php
+composer require blade-ui-kit/blade-icons
+```
+
+Then, publish the configuration and **uncomment** the `default` icon set:
+
+```bash
+php artisan vendor:publish --tag=blade-icons
+```
+
+## Install tailwind forms plugin
+https://github.com/tailwindlabs/tailwindcss-forms?tab=readme-ov-file
+
+Install the plugin from npm:
+
+Tujuan benda ni untuk reset basic form styling dan mudah untuk override guna utility class Tailwindcss
+
+```bash
+npm install -D @tailwindcss/forms
+```
+
+## Add Tailwind Configurations
+
+On file tailwind.config.js , replace following code 
+
+```bash
+theme: {
         extend: {
             fontFamily: {
                 sans: ['Poppins', ...defaultTheme.fontFamily.sans],
@@ -45,4 +65,9 @@ export default {
     },
 
     plugins: [forms],
-};
+```
+
+### Download SVG File ni
+
+https://drive.google.com/drive/folders/1h4inr03fMttGM5EJA0iSpAJN8W-hhbL1?usp=sharing
+
