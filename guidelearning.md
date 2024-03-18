@@ -5,7 +5,7 @@
 - Release of 1 video daily.
 - Recommended to watch daily.
 - Focuses on Laravel basics, fundamental coding practices, elegant code writing, and problem-solving approaches for various use cases.
-- Some videos require subscription ($399 lifetime) for full access. 💰 . (we do have access 🌟)
+- Some videos require subscription ($399 lifetime) for full access. 💰 . (we do have access 🌟gi)
 
 ## Livewire Resources
 - [Getting started with Livewire](https://livewire.laravel.com/screencast/getting_started/installation) 🌟
@@ -36,4 +36,8 @@
 
 ### Learn Laravel Path 
 1. Or kalau betul nak basic , nak pahamkan php, oop . boleh follow path ni . https://laracasts.com/path . 
+
+### Do a simple project
+- Either it can be a module on HRMS ( which better ), 
+- Or this https://laraveldaily.com/post/project-ideas-for-laravel-beginners-to-practice-their-skills . 
 
